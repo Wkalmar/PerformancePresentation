@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caching.CacheSize", "Caching.CacheSize\Caching.CacheSize.csproj", "{7D42A37E-C23A-4171-9376-CF15E18E3509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caching.CacheSize.Benchmarking", "Caching.CacheSize.Benchmarking\Caching.CacheSize.Benchmarking.csproj", "{CBE43A58-2605-4F71-9FF5-0608DF258053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D42A37E-C23A-4171-9376-CF15E18E3509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D42A37E-C23A-4171-9376-CF15E18E3509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D42A37E-C23A-4171-9376-CF15E18E3509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D42A37E-C23A-4171-9376-CF15E18E3509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE43A58-2605-4F71-9FF5-0608DF258053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE43A58-2605-4F71-9FF5-0608DF258053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE43A58-2605-4F71-9FF5-0608DF258053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE43A58-2605-4F71-9FF5-0608DF258053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B74855-D2E9-404B-9349-A9D9C43536C1}
+	EndGlobalSection
+EndGlobal
