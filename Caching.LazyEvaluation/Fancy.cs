@@ -38,7 +38,7 @@
         1 <= val, inc, m <= 100
         0 <= idx <= 10^5
         At most 10^5 calls total will be made to append, addAll, multAll, and getIndex.
-
+        Number of read operation surpasses number of mutations
 */
     public enum OperationCode : byte
     {
